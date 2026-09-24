@@ -1,0 +1,53 @@
+html {
+    font-size: 1.2em;
+    font-family: "Huninn", sans-serif;
+}
+
+
+header {
+    background-color: grey;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+footer {
+    background-color: green;
+    padding: 20px;
+}
+
+.about {
+    background-color: lavender;
+    padding: 20px;
+    text-align: center;
+}
+.articles {
+    background-color: bisque;
+}
+
+
+
+
+
+p {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-bottom: 1.3rem;
+    text-align: justify;
+}
+h2 {
+    font-size: 2rem;
+    color: darkblue;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+img {
+    display: block;
+    margin: 50px auto;
+}
